@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace CoreAppGitTInker
 {
@@ -7,7 +7,7 @@ namespace CoreAppGitTInker
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World Again!");
+            Console.WriteLine("Hello World Again!  And Again!!!!");
         }
     }
 }
